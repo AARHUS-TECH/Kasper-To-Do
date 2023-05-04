@@ -1,0 +1,39 @@
+h3 {
+  width: 100%;
+  border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+span {
+  margin-right: -17%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 2px solid rgb(0, 0, 0);
+  padding-top: 1rem;
+}
+
+span {
+  display: inline-block;
+}
+
+#kategorier_input,
+.bg-primary,
+#task,
+#kategorier {
+  margin-bottom: 2rem;
+}
+
+.list {
+  border: 2px solid rgba(200, 200, 200, 0.5);
+  border-radius: 25px;
+}
+
+.divtask {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn-danger {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
